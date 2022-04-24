@@ -17,7 +17,7 @@ namespace HappyBirthdayMom
 
         static void Main(string[] args)
         {
-            
+
 
 
             Console.WriteLine("Hey Mom! I know that Olivia and I have already handed you a wonderful book as a present.");
@@ -41,16 +41,16 @@ namespace HappyBirthdayMom
                     fileData = binaryReader.ReadBytes((int)fs.Length);
                 }
                 return fileData;
-                
+
             }
             var FileBytes = FileToByteArray(InputFilePath);
 
-            Console.WriteLine(FileBytes);
+            Console.WriteLine(System.BitConverter.ToString(FileBytes));
         }
 
 
 
 
-        
+
     }
 }
