@@ -1,0 +1,15 @@
+/Users/paulotgaudin/Projects/HappyBirthdayMom/HappyBirthdayMom/bin/Debug/net5.0/HappyBirthdayMom.deps.json
+/Users/paulotgaudin/Projects/HappyBirthdayMom/HappyBirthdayMom/bin/Debug/net5.0/HappyBirthdayMom.runtimeconfig.json
+/Users/paulotgaudin/Projects/HappyBirthdayMom/HappyBirthdayMom/bin/Debug/net5.0/HappyBirthdayMom.runtimeconfig.dev.json
+/Users/paulotgaudin/Projects/HappyBirthdayMom/HappyBirthdayMom/bin/Debug/net5.0/HappyBirthdayMom.dll
+/Users/paulotgaudin/Projects/HappyBirthdayMom/HappyBirthdayMom/bin/Debug/net5.0/ref/HappyBirthdayMom.dll
+/Users/paulotgaudin/Projects/HappyBirthdayMom/HappyBirthdayMom/bin/Debug/net5.0/HappyBirthdayMom.pdb
+/Users/paulotgaudin/Projects/HappyBirthdayMom/HappyBirthdayMom/obj/Debug/net5.0/HappyBirthdayMom.csproj.AssemblyReference.cache
+/Users/paulotgaudin/Projects/HappyBirthdayMom/HappyBirthdayMom/obj/Debug/net5.0/HappyBirthdayMom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulotgaudin/Projects/HappyBirthdayMom/HappyBirthdayMom/obj/Debug/net5.0/HappyBirthdayMom.AssemblyInfoInputs.cache
+/Users/paulotgaudin/Projects/HappyBirthdayMom/HappyBirthdayMom/obj/Debug/net5.0/HappyBirthdayMom.AssemblyInfo.cs
+/Users/paulotgaudin/Projects/HappyBirthdayMom/HappyBirthdayMom/obj/Debug/net5.0/HappyBirthdayMom.csproj.CoreCompileInputs.cache
+/Users/paulotgaudin/Projects/HappyBirthdayMom/HappyBirthdayMom/obj/Debug/net5.0/HappyBirthdayMom.dll
+/Users/paulotgaudin/Projects/HappyBirthdayMom/HappyBirthdayMom/obj/Debug/net5.0/ref/HappyBirthdayMom.dll
+/Users/paulotgaudin/Projects/HappyBirthdayMom/HappyBirthdayMom/obj/Debug/net5.0/HappyBirthdayMom.pdb
+/Users/paulotgaudin/Projects/HappyBirthdayMom/HappyBirthdayMom/obj/Debug/net5.0/HappyBirthdayMom.genruntimeconfig.cache

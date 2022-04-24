@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{991E3F35-3448-4CC8-A791-4B5D52F37F20}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HappyBirthdayMom/Program.cs">
+    <Files>
+      <File FileName="HappyBirthdayMom/Program.cs" Line="9" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HappyBirthdayMom" expanded="True">
+            <Node name="HappyBirthdayMom" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HappyBirthdayMom FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
